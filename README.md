@@ -138,3 +138,7 @@ noticeably; the display is very readable indoors at level 2.
 Original concept and build by **@meshtimes**. Independent reimplementation for
 personal making, not affiliated with or endorsed by the original creator. If you
 post a build, credit them.
+
+## License
+
+MIT — see [LICENSE](LICENSE). Covers the firmware, CAD script, STL files and docs.
